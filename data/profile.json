@@ -1,12 +1,10 @@
 {
     "nome": "Antonio Feitosa de Sousa Junior",
     "titulo": "Estudante na área de desenvolvimento de Software",
-    "localidade": {
-      "cidade": "Fortaleza",
-      "estado": "Ceará",
-      "pais": "Brasil"
-    },
-    "telefone": "(85) 99822-6512",
+    "photo": "https://avatars.githubusercontent.com/u/99521360?v=4",
+    "job": "Estudande de Desenvolvimento de Software",
+    "location":"Fortaleza - CE",
+    "phone": "(85) 99822-6512",
     "email": "antoniojsfsousa@gmail.com",
     "skills": {
       "hardSkills": [
@@ -25,8 +23,8 @@
       ],
       "softSkills": [
         "Comunicação",
-        "Empatia",
-        "Poder de Sedução Imcomparável"
+        "Empatia"
+        
       ]
     },
     "idiomas": [
