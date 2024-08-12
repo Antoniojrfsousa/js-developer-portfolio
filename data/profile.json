@@ -9,16 +9,20 @@
     "skills": {
       "hardSkills": [
         {
-          "nome": "Android",
-          "logo": "TODO"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/Antoniojrfsousa/js-developer-portfolio/main/data/imgs/js.png"
         },
         {
-          "nome": "Java",
-          "logo": "TODO"
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/Antoniojrfsousa/js-developer-portfolio/main/data/imgs/java.png"
         },
         {
-          "nome": "Kotlin",
-          "logo": "TODO"
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/Antoniojrfsousa/js-developer-portfolio/main/data/imgs/python.png"
+        },
+        {
+          "name":"VsColde",
+          "logo": "https://raw.githubusercontent.com/Antoniojrfsousa/js-developer-portfolio/main/data/imgs/vsconde.png"
         }
       ],
       "softSkills": [
