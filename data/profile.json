@@ -56,15 +56,18 @@
         "git": true
       }
     ],
-    "experiencias": [
+    "professionalExperience": [
       {
-        "nome": "Education Tech Lead ",
-        "descricao": "",
-        "instituicao": "Digital Innovation One (DIO)",
-        "periodo": {
-          "inicio": "03/2021",
-          "fim": "Atualmente"
-        }
+        "name": "ADM sistema funerário ",
+        "period":" agosto-2018 até agosto-2022",
+        "description": "Adm cadastro de usuário, estoque de produtos e serviços, e acompanhamento de fluxo de caixa"
+      },
+      {
+        "name": "Tecnico de manutenção de pc notebooks e smartphone ",
+        "period":" janeiro-2014 até julho-2018",
+        "description": "Manutenção de computadores, notebooks e celulares, reparo em placas de pc, notebooks e celulares"
       }
+
     ]
+
   }
